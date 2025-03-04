@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163446696742",
+    "project_id": "fir-firestoreandroid-7588a",
+    "storage_bucket": "fir-firestoreandroid-7588a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163446696742:android:856d48d7e46e152fdd2fe7",
+        "android_client_info": {
+          "package_name": "ru.normno.myfirebasefirestoreandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzT4VO4IgzofChNwsYy_b8457Loskt5VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
